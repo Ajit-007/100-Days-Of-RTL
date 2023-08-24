@@ -1,0 +1,5 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Tx Done: 0
+Rx DV: 0, Rx Byte: 00
+$finish called at time : 125 ns : File "D:/VLSI Projects/UART/UART.srcs/sim_1/new/uart_tb.v" Line 81

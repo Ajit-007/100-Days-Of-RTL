@@ -1,0 +1,9 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+a | b | diff | borrow
+----------------------
+0 | 0 |   0   |   0
+0 | 1 |   1   |   1
+1 | 0 |   1   |   0
+1 | 1 |   0   |   0
+$finish called at time : 40 ns : File "D:/VLSI Projects/half_subtractor/half_subtractor.srcs/sim_1/new/half_sub_tb.v" Line 56
