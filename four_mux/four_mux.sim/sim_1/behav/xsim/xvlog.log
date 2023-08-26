@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VLSI Projects/four_mux/four_mux.srcs/sources_1/new/four_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VLSI Projects/four_mux/four_mux.srcs/sim_1/new/four_mux_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_mux_tb
