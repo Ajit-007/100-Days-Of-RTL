@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../par_gen.srcs/sources_1/new/par_check.v" \
+"../../../../par_gen.srcs/sources_1/new/par_gen.v" \
+"../../../../par_gen.srcs/sim_1/new/par_check_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
